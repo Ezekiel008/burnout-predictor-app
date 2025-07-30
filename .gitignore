@@ -1,0 +1,3 @@
+*.ipynb_checkpoints/
+*.csv
+burn_rate_predictions.csv
